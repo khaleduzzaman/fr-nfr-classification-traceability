@@ -1,5 +1,6 @@
 # FR/NFR Classification and FR→NFR Trace Link Discovery
 
+The statements were written and labelled by Gemini 2.5 Pro and then reviewed by three software engineers, who checked classification accuracy, corrected incorrect labels, and removed irrelevant or ambiguous statements.
 Code and data for the paper:
 
 > Khaleduzzaman, Z. Che Embi, and N. K. Why, "Artificial Intelligence for Requirements Engineering: Unified FR/NFR Classification and Trace Link Discovery," *JOIV: International Journal on Informatics Visualization* (under review).
